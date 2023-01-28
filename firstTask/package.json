@@ -1,0 +1,13 @@
+{
+  "name": "ips-insights",
+  "version": "1.0.0",
+  "description": "API tests for the IPs Insights endpoint",
+  "scripts": {
+    "test": "jest --verbose ./tests"
+  },
+  "author": "Iakov K",
+  "dependencies": {
+    "jest": "^29.4.0",
+    "pactum": "^3.3.2"
+  }
+}

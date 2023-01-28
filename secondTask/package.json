@@ -1,0 +1,13 @@
+{
+  "name": "1-year-plan",
+  "version": "1.0.0",
+  "description": "Script for price validation between checkout and payment pages for NordVPN 1 year plan",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "author": "Iakov K",
+  "dependencies": {
+    "@playwright/test": "1.29.2",
+    "playwright": "1.29.2"
+  }
+}
